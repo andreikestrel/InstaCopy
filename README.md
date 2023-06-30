@@ -21,10 +21,6 @@ Se desejar, você pode personalizar este projeto alterando as imagens, cores e e
 
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, fique à vontade para fazer um fork e enviar uma pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Agradecimentos
 
 Este projeto foi inspirado no layout da página de login do Instagram.
