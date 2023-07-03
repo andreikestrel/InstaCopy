@@ -4,7 +4,7 @@ Este é um projeto de clone da página inicial do Instagram. Ele replica a apar�
 
 ## Tecnologias Utilizadas
 
-- HTML5
+- HTML6
 - CSS3
 
 ## Como Usar
